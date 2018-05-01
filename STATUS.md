@@ -44,3 +44,9 @@ At the end of the week, the weekly status update will be posted to the #general 
 * 95% disk usage on the OFF server
 
 ## Week starting April 23rd
+### Highlights
+We zoomed past 1/2 million products on April 17th.
+
+### Completed this week
+Android: 0.8.9 beta release: Fixed additives / You can search in categories / Notification to remind you to send offline products you have contributed / Notification when history export is complete / Refreshed translations / Language fix for older Android versions / Fixed bug in onboarding / New multilingual splash screen / Calculate calories for given product weight / Performance boost on first use / Scan on shake
+
