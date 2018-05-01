@@ -19,6 +19,10 @@ At the end of the week, the weekly status update will be posted to the #general 
 
 ### Completed this week
 
+* Android: you can now explore the categories list offline, new translations, revamped navigation, a new contributors tab and swipe to refresh on the product page, enhancements for Open Beauty Facts and Open Products Facts, a products to be completed page accessible from the menu.
+* iOS: Added a button to share a product
+* Web: New translations
+
 ### Working on this week
 
 * Define how to structure the reporting and communication for the 2 accepted GSOC projects (GSOC org admins, mentors and students, OFF admins)
@@ -28,6 +32,8 @@ At the end of the week, the weekly status update will be posted to the #general 
 ### To be worked on this week
 
 * Determine the server resources needed for the project (stephane)
+* Set up call to get said resources (pierre)
+* Get an agreement on how to translate taxonomies at scale (pierre)
 
 ### To be worked on next week
 
