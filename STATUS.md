@@ -31,9 +31,11 @@ At the end of the week, the weekly status update will be posted to the #general 
 
 ### To be worked on this week
 
-* Determine the server resources needed for the project (stephane)
-* Set up call to get said resources (pierre)
+* Determine the server resources needed for the project (stephane) and set up call to get said resources (pierre)
 * Get an agreement on how to translate taxonomies at scale (pierre)
+* Generate static taxonomies for Open Beauty Facts (stephane)
+* Deploy a new version of Open Pet Food Facts and Open Products Facts and a refresh of the Open Food Facts Android alpha. (pierre)
+* Talk to a potential datasource for Open Beauty Facts (pierre)
 
 ### To be worked on next week
 
